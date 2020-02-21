@@ -2,7 +2,11 @@
 
 Simple Bash script to Encode / Decode in Base64
 
-##############################################################
+![](screenshot%20BANNER.png)
+
+![](screenshot%20ENCODE.png)
+
+![](screenshot%20ENCODE.png)
 
 Instalation:
 
