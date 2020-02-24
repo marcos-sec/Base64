@@ -6,9 +6,9 @@ Simple Bash script to Encode / Decode in Base64
 
 ![](/screenshot/screenshot1.png)
 
-![](screenshot%20ENCODE.png)
+![](/screenshot/screenshot2.png)
 
-![](screenshot%20DECODE.png)
+![](/screenshot/screenshot2.png)
 
 **Install:**
 
