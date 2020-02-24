@@ -4,7 +4,7 @@ Simple Bash script to Encode / Decode in Base64
 
 **Screenshot**
 
-![](screenshot1.png)
+![](/screenshot/screenshot1.png)
 
 ![](screenshot%20ENCODE.png)
 
