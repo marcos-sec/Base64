@@ -8,7 +8,7 @@ Simple Bash script to Encode / Decode in Base64
 
 ![](/screenshot/screenshot2.png)
 
-![](/screenshot/screenshot2.png)
+![](/screenshot/screenshot3.png)
 
 **Install:**
 
