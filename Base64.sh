@@ -1,19 +1,22 @@
 #!/bin/bash
+
 #Author: d4t4s3c
 #Email: d4t4s3c@protonmail.com
 #GitHub: www.github.com/d4t4s3c.com
+
 #colors
 b="\033[1;37m"
 r="\033[1;31m"
 v="\033[1;32m"
 a="\033[1;33m"
 nc="\e[0m"
+
 #var
 shell="Base64"
 n1=1
 n2=2
 n3=3
-#banner
+
 function banner(){
         clear
         sleep 1
@@ -32,14 +35,15 @@ function banner(){
         echo -e "$b ########################################$nc"
         echo ""
 }
-#menu
+
 function menu(){
         echo -e "$b [$v$n1$b] Encode"
         echo -e "$b [$v$n2$b] Decode"
         echo -e "$b [$v$n3$b] Exit"
         echo ""
-#prompt
+
 read -p "$(echo -e $r[$v$shell$a:$b~$r]$v# $nc)" opc
+
 if [ $opc -eq 1 ]; then
 	sleep 1
 	echo ""
@@ -122,6 +126,5 @@ else
 	menu
 fi
 }
-#init
 banner
 menu
