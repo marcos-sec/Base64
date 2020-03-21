@@ -10,8 +10,8 @@ Simple Bash script to Encode / Decode in Base64
 
 ![](/screenshot/screenshot3.png)
 
-**Install:**
-
+# Install:
+```
 git clone https://github.com/d4t4s3c/Base64.git
 
 cd Base64
@@ -19,3 +19,4 @@ cd Base64
 chmod +x Base64.sh
 
 ./Base64.sh
+```
