@@ -21,7 +21,6 @@ z2="The coded text is:"
 z3="Text to decode:"
 z4="The decoded text is:"
 
-
 function banner(){
         clear
         sleep 1
