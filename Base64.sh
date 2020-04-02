@@ -23,7 +23,6 @@ z4="The decoded text is:"
 
 
 function banner(){
-
         clear
         sleep 1
         echo ""
@@ -43,12 +42,10 @@ function banner(){
 }
 
 function main(){
-
         echo -e "$b[$v$n1$b] Encode"
         echo -e "$b[$v$n2$b] Decode"
         echo -e "$b[$v$n3$b] Exit"
         echo ""
-
 }
 
 function menu(){
