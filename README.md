@@ -1,6 +1,6 @@
 # Base64
 
-Simple Bash script to Encode / Decode in Base64
+Simple Bash script to: Encode - Decode (Base64)
 
 **Screenshot**
 
