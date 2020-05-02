@@ -4,11 +4,15 @@ Simple Bash script to: Encode - Decode (Base64)
 
 **Screenshot**
 
-![](/screenshot/1.png)
+![](/screenshot/01.png)
 
-![](/screenshot/2.png)
+**Encode**
 
-![](/screenshot/3.png)
+![](/screenshot/02.png)
+
+**Decode**
+
+![](/screenshot/03.png)
 
 # Run:
 ```
