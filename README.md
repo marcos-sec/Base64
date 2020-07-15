@@ -15,12 +15,11 @@ Simple Bash script to: Encode - Decode (Base64)
 ![](/screenshot/03.png)
 
 # Run:
-```
-git clone https://github.com/d4t4s3c/Base64.git
 
-cd Base64
+``` git clone https://github.com/d4t4s3c/Base64.git ```
 
-chmod +x Base64.sh
+``` cd Base64 ```
 
-./Base64.sh
-```
+``` chmod +x Base64.sh ```
+
+``` ./Base64.sh ```
